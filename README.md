@@ -65,6 +65,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ## 🖼️ Ekran Görüntüleri
 
+![Ana Pencere](./images/anasayfa.png)
 *Ana pencere ekran görüntüsü buraya gelecek*
 https://github.com/EFBabacan/Sha_and_Rsa/blob/main/anasayfa.png
 
