@@ -1,0 +1,16 @@
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.csproj.AssemblyReference.cache
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.mainForm.resources
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.Properties.Resources.resources
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.csproj.GenerateResource.cache
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.csproj.CoreCompileInputs.cache
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\bin\Debug\Sha_and_RSA.exe.config
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\bin\Debug\Sha_and_RSA.exe
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\bin\Debug\Sha_and_RSA.pdb
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.Sha256Form.resources
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.exe
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.pdb
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.exe.config
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_RSA.RsaToolkitForm.resources
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ensfr\source\repos\Sha_and_RSA\Sha_and_RSA\obj\Debug\Sha_and_.347387BC.Up2Date
