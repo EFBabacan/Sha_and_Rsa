@@ -65,26 +65,31 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ## 🖼️ Ekran Görüntüleri
 
-![Ana Pencere](./images/anasayfa.png)
-*Ana pencere ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/anasayfa.png
+![Ana Pencere](./images/ana-ekran.png)
+      -Bu ekranda başlangıç sayfası gözükmete. sol tarafta menu kısmı , sağ üstte ise control kısmı yer almakta.
+      
+![Control Pencere](./images/control.png)
+      -Bu görüntüde alta alma , tam ekran yapma ve kapatma butonu yer almakta.
+      
+![Sha256 Pencere](./images/sha256.png)
+      -Bu ekran isteğe bağlı olarak 2 farklı Sha256 özetleme  yöntemi vardır. Metin özetleme ve Dosya özetleme.
 
-*RSA Anahtar Üretme ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/anahtar_olusturma.png
+![Anahtar Uretme Pencere](./images/anahtar_uretme.png)
+      -Bu ekrandan istenilen karakter sayısı ve isteğe bağlı olaral şifre belirleyerek private ve public key üretmekte. Public ve Private key'i istenilen yere yükleme seçeneğide mevcuttur.
 
-*RSA Şifreleme ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/encryption.png
+![Anahtar Uretme Pencere](./images/anahtar_olusturma.png)
+      -Bu ekrandan anahtar oluşturulmuştur.
 
-*RSA Şifre Çözme ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/decryption.png
+![şifreleme Pencere](./images/encryption.png)
+      -Bu ekrandan istnilene bağlı olara 3 farklı rsa dolgulama yöntemininden birini seçerek public key ile şifreli metin üretiyoruz. Public key'i istenilen yerden yükleme seçeneğide mevcuttur.
+![şifreleme Pencere](./images/rsa_dolgulama.png)
 
-*RSA İmzalama ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/sign_message.png
+![şifreleme Pencere](./images/decryption.png)
+      -Bu ekranda private key'i yükledikden sonra şifreli ise şifresini girip , uygun olan rsa dolgulama yöntemi ile şifreli metni çözüyoruz.
 
-*RSA İmza Doğrulama ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/verify_signature.png
+![şifreleme Pencere](./images/sign_message.png)
+      -Bu ekran private key ile mesaj imzalıyoruz.
 
-*SHA-256 Aracı ekran görüntüsü buraya gelecek*
-https://github.com/EFBabacan/Sha_and_Rsa/blob/main/sha256.png
-
+![şifreleme Pencere](./images/verify_signature.png)
+      -Bu ekran public key ile imzayı doğruluyoruz.
 
